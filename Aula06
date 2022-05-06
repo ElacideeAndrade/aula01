@@ -1,0 +1,4 @@
+variavel01=10
+variavel02=50
+print(variavel01 * variavel02)
+print(10*50)
