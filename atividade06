@@ -1,0 +1,6 @@
+a=8
+b=9
+c=7
+soma = 8+9+7
+media =soma /3
+print((a+b+c)/3)
