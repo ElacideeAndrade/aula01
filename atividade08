@@ -1,0 +1,4 @@
+digite = int(input ("digite um numero inteiro"))
+escreva = int(input ("digite um numero inteiro"))
+soma= (digite + escreva)
+print (soma)
