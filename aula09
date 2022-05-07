@@ -1,0 +1,12 @@
+a= int(input ("digite um numero"))
+b= int(input ("digite segundo numero"))
+adicao = (a+b)
+subtracao = (a-b)
+multiplicacao = (a*b)
+divisao = (a/b)
+print( a,"+",b,"=",adicao)
+print( a,"-",b,"=",subtracao)
+print( a,"*",b,"=",multiplicacao)
+#print( a,"/",b,"=",divisao)
+
+print(f"{a}/{b}={divisao:.0f}")
