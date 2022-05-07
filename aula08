@@ -1,0 +1,6 @@
+a = int(input ("digite uma primeira nota"))
+b = int(input ("digite uma segunda nota"))
+c = int(input ("digite uma terceira nota"))
+d = int(input ("digite uma quarta nota"))
+soma = ((a+b+c+d)/4)
+print ("sua média é", soma)
